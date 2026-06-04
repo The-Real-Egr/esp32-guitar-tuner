@@ -42,3 +42,7 @@ UI
 ## Demo
 
 (видео позже)
+
+## GIT_TUTORIAL
+
+![alt text](image.png)
