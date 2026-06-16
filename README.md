@@ -31,6 +31,9 @@ NoteEstimator
 ↓
 UI
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/868827cc-a3c3-4c6e-8253-1e09f4ad66a6" />
+
+
 ## Photos
 
 (фото позже)
